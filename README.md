@@ -2,11 +2,7 @@
 This project is a crawler to functionaly is recopile information
 about actifs financiers
 Recopile information about this found in sites how to example:
- * Bloomberg
- * Yahoo Finance
- * Investing.com
- * Morningstar
- * MarketWatch
+ *List Sites
 
 This site is used for font information
 
